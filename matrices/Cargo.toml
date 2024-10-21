@@ -1,0 +1,9 @@
+[package]
+name = "assignment"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ndarray = { version = "0.16.1", default-features = false }
+log = "0.4.22"
+assert_approx_eq = "1.1.0"
